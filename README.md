@@ -2,22 +2,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm <b> Praduman Kumar </b></h1>
-<h2 align="center">Decided to constantly develop my skills and grow professionally.</h2>
+<h2 align="center">Self-motivated and cheerful personality && Decided to constantly develop my skills and grow professionally.</h2>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[C Programming]()**
+- 🔭 I’m currently working on **[ Programming language ]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms/C++ Programming.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Praduman80)**
 
 - 📫 How to reach me **kumarparduman80@gmail.com**
 
-- ⚡ Fun fact **I play games./enjoy gossiping**
+- ⚡ Fun fact **I play games/enjoy gossiping**
 
 ## 🚀 Languages and Tools:
 
@@ -34,11 +34,11 @@
 </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 My Github Status
 
 <br/>
-<a href="https://github.com/praduman80/github-readme-stats"><img alt="Praduman Kumar Github Stats" src="https://github-readme-stats.vercel.app/api?username=praduman80&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/praduman80/github-readme-stats"><img alt="Praduman Kumar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praduman80&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/praduman80/github-readme-status"><img alt="Praduman Kumar Github Status" src="https://github-readme-stats.vercel.app/api?username=praduman80&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/praduman80/github-readme-status"><img alt="Praduman Kumar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praduman80&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 
 
