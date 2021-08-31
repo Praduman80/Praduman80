@@ -41,6 +41,7 @@
   <a href="https://github.com/praduman80/github-readme-stats"<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praduman80&show_icons=true&locale=en&layout=comflict" alt="praduman80"</p></a>
   
   <br/>
+   <br/>
 <a href="https://github.com/praduman80/github-readme-activity-graph"><img alt="Praduman Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praduman80&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
