@@ -52,8 +52,9 @@
 
 <a href = "https://www.linkedin.com/in/pradumankumar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Raunakk58363583/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="https://www.codechef.com/users/raunak_80" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/raunak_80" height="55" width="50" /></a>
 <a href = "https://www.instagram.com/kmr_praduman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://www.codechef.com/users/raunak_80" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/raunak_80" height="55" width="50" /></a>
+
 
 </p>
 
