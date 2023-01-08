@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **[ Programming language ]()**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms/PYTHON.**
+- 🌱 I’m currently learning **Data Structures and Algorithms/C++.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Praduman80)**
 
-- 📫 How to reach me **kumarparduman80@gmail.com**
+- 📫 How to reach me **email.pradumankumar@gmail.com**
     - 📫My website **https://kmrpraduman.me/**  
 
 - ⚡ Fun fact **I play games/enjoy gossiping**
