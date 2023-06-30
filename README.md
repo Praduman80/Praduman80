@@ -16,8 +16,7 @@
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Praduman80)**
 
 - 📫 How to reach me **email.pradumankumar@gmail.com**
-    - 📫My website **https://kmrpraduman.me/**  
-
+   
 - ⚡ Fun fact **I play games/enjoy gossiping**
 
 ## 🚀 Languages and Tools:
