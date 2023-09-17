@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ Programming language ]()**
+- 🔭 I’m currently working on **[ Essonova Corporation ]()**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms/C++.**
+- 🌱 I’m currently a software Developer Cum IT executive **Full Stack Development.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
