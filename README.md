@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ Essonova Corporation ]()**
+- 🔭 I’m currently working at **[ Essonova Corporation ]()**
 
 - 🌱 I’m currently a software Developer Cum IT executive **Full Stack Development.**
 
