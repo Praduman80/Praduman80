@@ -54,12 +54,12 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praduman80&show_icons=true&locale=en&layout=compact" alt="praduman80" />
 </a>
 
-<br/>
+ <!--<br/>
 <br/>
 <a href="[https://github.com/Ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=praduman80)">
   <img alt="Praduman Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Praduman80&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
-
+-->
 <br/>
 <br/>
 
