@@ -44,24 +44,24 @@
     </a>
   </p>
 
-  ## 📊 My Github Status
+## 📊 My Github Status
 
-  <br/>
-  <a href="https://github.com/Praduman80/github-readme-stats">
-    <img alt="Praduman Kumar Github Status" src="https://github-readme-stats.vercel.app/api?username=praduman80&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/praduman80/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praduman80&show_icons=true&locale=en&layout=compact" alt="praduman80" />
-  </a>
+<br/>
+<a href="https://github.com/Praduman80/github-readme-stats">
+  <img alt="Praduman Kumar Github Status" src="https://github-readme-stats.vercel.app/api?username=Praduman80&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/Praduman80/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Praduman80&show_icons=true&locale=en&layout=compact" alt="praduman80" />
+</a>
 
-  <br/>
-  <br/>
-  <a href="https://github.com/praduman80/github-readme-activity-graph">
-    <img alt="Praduman Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praduman80&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
+<br/>
+<br/>
+<a href="[https://github.com/Ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=praduman80)">
+  <img alt="Praduman Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Praduman80&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
 
-  <br/>
-  <br/>
+<br/>
+<br/>
 
   ## Connect with me:
   <p align="left">
